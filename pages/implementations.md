@@ -188,7 +188,7 @@ Several distributed databases also have built-in support for CRDTs:
 
 Several text editors use CRDTs:
 
-* [Zed](https://zed.dev/blog/crdts) is a high-performance, CRDT-based multiplayer code editor from the creators of Atom and Tree-sitter. It's aopen source and written in Rust.
+* [Zed](https://zed.dev/blog/crdts) is a high-performance, CRDT-based multiplayer code editor from the creators of Atom and Tree-sitter. It's open source and written in Rust.
 
 * [crdt.el](https://code.librehq.com/qhong/crdt.el) is a real-time collaborative editing environment for Emacs using Conflict-free Replicated Data Types.
 
